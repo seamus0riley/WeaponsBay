@@ -1,0 +1,4 @@
+c:\users\ron\documents\visual studio 2015\Projects\WeaponsBay\WeaponsBay\obj\Release\WeaponsBay.csprojResolveAssemblyReference.cache
+c:\users\ron\documents\visual studio 2015\Projects\WeaponsBay\Output\Plugins\WeaponsBay.dll
+c:\users\ron\documents\visual studio 2015\Projects\WeaponsBay\WeaponsBay\obj\Release\WeaponsBay.dll
+C:\Users\Ron\Documents\Kerbal Space Program\GameData\cb_co Industries\Plugins\WeaponsBay.dll

@@ -1,0 +1,6 @@
+C:\Users\Ron\Documents\Visual Studio 2015\Projects\WeaponsBay\WeaponsBay\bin\Debug\WeaponsBay.dll
+C:\Users\Ron\Documents\Visual Studio 2015\Projects\WeaponsBay\WeaponsBay\bin\Debug\WeaponsBay.pdb
+C:\Users\Ron\Documents\Visual Studio 2015\Projects\WeaponsBay\WeaponsBay\obj\Debug\WeaponsBay.dll
+C:\Users\Ron\Documents\Visual Studio 2015\Projects\WeaponsBay\WeaponsBay\obj\Debug\WeaponsBay.pdb
+C:\Users\Ron\Documents\Visual Studio 2015\Projects\WeaponsBay\Output\Plugins\WeaponsBay.dll
+C:\Users\Ron\Documents\Visual Studio 2015\Projects\WeaponsBay\Output\Plugins\WeaponsBay.pdb
